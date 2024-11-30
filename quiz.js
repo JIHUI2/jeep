@@ -37,7 +37,7 @@ const quizData = [
     },
     {
         question: "Who represent Respect Program?",
-        answer: "Rossignol"
+        answer: "Rosssignol"
     }
 ];
 
